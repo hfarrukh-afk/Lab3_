@@ -1,6 +1,7 @@
 # Lab3_
 Hamza Farrukh
-PART 1: 
+PART 1/2: 
+
 
 1) I²C addresses of the accelerometer & magnetometer (show R/W bit too)
 •	Accelerometer (7-bit SAD): 0011001b (0x19) → Read: 00110011b (0x33), Write: 00110010b (0x32). STMicroelectronics
